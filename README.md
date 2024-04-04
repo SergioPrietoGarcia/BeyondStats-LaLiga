@@ -11,7 +11,7 @@ El objetivo principal de este proyecto es reforzar mis habilidades como data ana
 El repositorio está organizado de la siguiente manera:
 
 - **/web_scraping-SQL**: Contiene los scripts necesarios para realizar la extracción de datos de la página web de Beyond Stats y almacenamiento en una base de datos SQL.
-- **/Dashboards-PowerBI**: Contiene los archivos de PowerBI en formato imagen utilizados para visualizar los datos almacenados en la base de datos.
+- **/Dashboards-PowerBI**: Contiene un enlace a los dashboards creados en PowerBI para que se puedan consultar de manera interactiva.
 
 ## Instrucciones de Uso
 
