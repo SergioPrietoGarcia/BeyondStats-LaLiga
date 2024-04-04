@@ -1,3 +1,5 @@
 # Dashboards en PowerBI
 
-En esta carpeta, se encuentran 5 imágenes que recogen un dashboard para cada apartado de estadísticas. Se ha seleccionado el equipo Real Club Celta de Vigo a través de un segmentador implantado en el dashboard para visualizar las principales estadísticas de este club a jornada 29 de La Liga. A medida que las jornadas vayan avanzando, continuaré actualizando los dashboards por mi cuenta.
+En esta carpeta, únicamente encontrarás este archivo README.md. A través del siguiente enlace podrás acceder a los 5 dashboards creados a partir de los datos de la web de BEYOND STATS: 
+
+https://app.powerbi.com/view?r=eyJrIjoiMmQ0ZTM4N2QtOGVjMy00NmNlLTk5NGUtNzQ5MDk4NjVjOTY1IiwidCI6ImNlYTFlYTNlLTYwYjItNGY3NS1hNmMyLWE2MDIyZThmOTYxYiIsImMiOjh9
